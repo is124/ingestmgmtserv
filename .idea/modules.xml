@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ingestmgmtservApi/ingestmgmtservApi.iml" filepath="$PROJECT_DIR$/ingestmgmtservApi/ingestmgmtservApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingestmgmtservFunctionalTests/ingestmgmtservFunctionalTests.iml" filepath="$PROJECT_DIR$/ingestmgmtservFunctionalTests/ingestmgmtservFunctionalTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ingestmgmtservService/ingestmgmtservService.iml" filepath="$PROJECT_DIR$/ingestmgmtservService/ingestmgmtservService.iml" />
+    </modules>
+  </component>
+</project>

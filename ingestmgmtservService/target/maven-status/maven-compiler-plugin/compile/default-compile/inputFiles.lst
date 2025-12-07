@@ -1,0 +1,7 @@
+/Users/tilaksingh/Desktop/Work/SpotLite/ingestmgmtserv/ingestmgmtservService/src/main/java/com/spotlite/ingestmgmtserv/IngestmgmtservApplication.java
+/Users/tilaksingh/Desktop/Work/SpotLite/ingestmgmtserv/ingestmgmtservService/src/main/java/com/spotlite/ingestmgmtserv/clients/demoExternalServiceClient.java
+/Users/tilaksingh/Desktop/Work/SpotLite/ingestmgmtserv/ingestmgmtservService/src/main/java/com/spotlite/ingestmgmtserv/impl/demoIngestManagementController.java
+/Users/tilaksingh/Desktop/Work/SpotLite/ingestmgmtserv/ingestmgmtservService/src/main/java/com/spotlite/ingestmgmtserv/microservices/demoDataProcessingServiceClient.java
+/Users/tilaksingh/Desktop/Work/SpotLite/ingestmgmtserv/ingestmgmtservService/src/main/java/com/spotlite/ingestmgmtserv/model/demoIngestEntity.java
+/Users/tilaksingh/Desktop/Work/SpotLite/ingestmgmtserv/ingestmgmtservService/src/main/java/com/spotlite/ingestmgmtserv/orchestrator/demoIngestOrchestrator.java
+/Users/tilaksingh/Desktop/Work/SpotLite/ingestmgmtserv/ingestmgmtservService/src/main/java/com/spotlite/ingestmgmtserv/service/demoIngestManagementService.java
